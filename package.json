@@ -35,7 +35,7 @@
     "grunt-templater": "0.0.6",
     "grunt-usemin": "~3.1.1",
     "grunt-zip": "^0.17.1",
-    "highlight.js": "^9.9.0",
+    "highlight.js": "^10.4.1",
     "jshint-stylish": "~2.2.1",
     "less-plugin-functions": "^1.0.0",
     "less-plugin-sass2less": "^1.1.0",
